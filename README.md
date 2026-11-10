@@ -15,7 +15,7 @@ I'm a Computer Science graduate who recently completed a 16-week QA training pro
 
 | Project | What I did | Tools |
 |---|---|---|
-| [Sauce Demo – Web Testing](LINK) (team project) | Wrote test scenarios and test cases, reported bugs, and automated some test cases using the Page Object Model | Jira, Selenium, Java |
+| [Sauce Demo – Web Testing](https://github.com/samirqumri/sauce-demo-automation.git) (team project) | Wrote test scenarios and test cases, reported bugs, and automated some test cases using the Page Object Model | Jira, Selenium, Java |
 | [TutorialsNinja Demo – Test Automation](https://github.com/farah261/TutorialsNinja-Demo-Test-Automation.git) (individual project) | Automated test cases for an e-commerce demo site | Selenium, Java |
 | [Restful-Booker – API Testing](LINK) | Tested API endpoints with different HTTP methods, authentication, and response validation | Postman |
 | [ScaleBridge – Website Testing](LINK) (pair project) | Wrote test scenarios and test cases, executed manual tests, reported bugs, and tested the website on different devices and screen sizes using simulation tools | Manual Testing, Trello, Excel |
